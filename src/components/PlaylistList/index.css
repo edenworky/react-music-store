@@ -1,0 +1,6 @@
+.PlaylistList{
+	display: flex;
+	width: 100%;
+	align-items: center;
+	flex-flow: row wrap;
+}
